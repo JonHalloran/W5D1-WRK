@@ -1,0 +1,45 @@
+/* PHASE 1: Header */
+
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:300,400,700" type="text/css">
+
+body {
+  font-weight: inherit;
+  font-family: "Roboto";
+  font-size: inherit;
+  max-width: 900px;
+}
+
+header {
+  /* font-weight: 700; */
+  font-family: sans-serif;
+  font-size: 26;
+  color: white;
+  background-color: red;
+  display: flex;
+  justify-content: space-around;
+}
+
+header h1 {
+  font-weight: 600;
+  padding: 10px 20px;
+  border-left: solid white 1px;
+  border-right: solid white 1px;
+}
+
+header ul {
+  display: flex;
+  align-items: flex-end;
+}
+
+header li {
+  padding: 10px 20px;
+  border-left: solid white 1px;
+}
+
+header li:last-child {
+  border-right: solid white 1px;
+}
+
+header h1:hover, li:hover {
+  background-color: black;
+}

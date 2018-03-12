@@ -1,0 +1,13 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+body	/Users/appacademy/Downloads/css-friends-01/skeleton/css/01-header.css	/^body {$/;"	function	line:5
+header	/Users/appacademy/Downloads/css-friends-01/skeleton/css/01-header.css	/^header {$/;"	function	line:12
+header h1	/Users/appacademy/Downloads/css-friends-01/skeleton/css/01-header.css	/^header h1 {$/;"	function	line:22
+header ul	/Users/appacademy/Downloads/css-friends-01/skeleton/css/01-header.css	/^header ul {$/;"	function	line:29
+header li	/Users/appacademy/Downloads/css-friends-01/skeleton/css/01-header.css	/^header li {$/;"	function	line:34
+header li:last-child	/Users/appacademy/Downloads/css-friends-01/skeleton/css/01-header.css	/^header li:last-child {$/;"	function	line:39
+header h1:hover, li:hover	/Users/appacademy/Downloads/css-friends-01/skeleton/css/01-header.css	/^header h1:hover, li:hover {$/;"	function	line:43
