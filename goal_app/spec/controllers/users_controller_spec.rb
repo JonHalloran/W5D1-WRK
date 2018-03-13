@@ -42,7 +42,7 @@ RSpec.describe UsersController, type: :controller do
       end
       # expect(response).to have_http_status(:redirect)
       # expect(response).to redirect_to(users_url)
-       expect(response).not_to render_template(:show)
+       expect(response).not_to render_template(:show) 
     end
   end
 
